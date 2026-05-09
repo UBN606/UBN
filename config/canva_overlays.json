@@ -1,0 +1,43 @@
+{
+  "title_card": {
+    "duration_s": 4,
+    "lines": [
+      "The Jubilee of Jubilees",
+      "The Day the Universe Was Made Whole"
+    ],
+    "font": "Cormorant Garamond",
+    "style": "italic",
+    "color": "#C8A96E",
+    "background": "#000000"
+  },
+  "closing_card": {
+    "duration_s": 4,
+    "lines": [
+      "May 18, AD 30",
+      "Urantia Book Network. May 2026"
+    ],
+    "font": "Barlow Condensed",
+    "color": "#C8A96E",
+    "background": "#000000"
+  },
+  "citation_overlays": [
+    { "at_s": 30,  "duration_s": 5, "text": "UB 33:3.5" },
+    { "at_s": 58,  "duration_s": 5, "text": "UB 193:5.1" },
+    { "at_s": 120, "duration_s": 5, "text": "UB 34:5.4" },
+    { "at_s": 132, "duration_s": 5, "text": "UB 34:2.1" },
+    { "at_s": 145, "duration_s": 5, "text": "UB 33:3.5" },
+    { "at_s": 180, "duration_s": 5, "text": "UB 33:3.6" },
+    { "at_s": 200, "duration_s": 5, "text": "UB 33:3.7" }
+  ],
+  "citation_style": {
+    "font": "Barlow Condensed",
+    "color": "#C8A96E",
+    "position": "bottom-right",
+    "size": "small"
+  },
+  "music_bed": {
+    "drive_filename": "track_heaven.mp3",
+    "level_db": -18,
+    "spans": "full"
+  }
+}

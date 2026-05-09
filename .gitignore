@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.local
+
+outputs/
+weights/
+LongCat-Video/
+
+*.log
+.DS_Store
+.idea/
+.vscode/

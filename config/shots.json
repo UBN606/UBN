@@ -1,0 +1,120 @@
+{
+  "project": "Jubilee v2",
+  "title": "The Jubilee of Jubilees: The Day the Universe Was Made Whole",
+  "drive_clip_folder": "02_AI_VIDEO/I2V",
+  "shots": [
+    { "id": "SHOT_02", "existing": true },
+    { "id": "SHOT_03", "existing": true },
+    { "id": "SHOT_04", "existing": true },
+    { "id": "SHOT_05", "existing": true },
+    { "id": "SHOT_06", "existing": true },
+    { "id": "SHOT_07", "existing": true },
+    { "id": "SHOT_08", "existing": true },
+    { "id": "SHOT_09", "existing": true },
+    { "id": "SHOT_10", "existing": true },
+    { "id": "SHOT_11", "existing": true },
+    { "id": "SHOT_12", "existing": true },
+    { "id": "SHOT_13", "existing": true },
+    { "id": "SHOT_14", "existing": true },
+    { "id": "SHOT_15", "existing": true },
+    { "id": "SHOT_16", "existing": true },
+    { "id": "SHOT_17", "existing": true },
+    { "id": "SHOT_18", "existing": true },
+    { "id": "SHOT_19", "existing": true },
+    { "id": "SHOT_20", "existing": true },
+    { "id": "SHOT_21", "existing": true },
+    { "id": "SHOT_22", "existing": true },
+    { "id": "SHOT_23", "existing": true },
+    { "id": "SHOT_24", "existing": true },
+    { "id": "SHOT_25", "existing": true },
+
+    {
+      "id": "SHOT_26",
+      "existing": false,
+      "vo": "VO-03",
+      "duration_s": 5,
+      "still_prompt": "Photorealistic wide shot, 16:9. Mount of Olives olive grove at dawn, empty. Ancient gnarled olive tree trunks in foreground, Jerusalem walls faintly visible through haze to the west. The place where it happened, now quiet. Long shadows across rocky Judean limestone. ARRI Alexa 35, anamorphic 40mm. Kodak 2383, fine grain, atmospheric haze. No text, no watermarks.",
+      "motion_prompt": "Locked static wide. Olive leaves moving gently in morning breeze. Atmospheric haze drifts toward Jerusalem. Sacred stillness. The place holds the memory."
+    },
+    {
+      "id": "SHOT_27",
+      "existing": false,
+      "vo": "VO-03",
+      "duration_s": 5,
+      "still_prompt": "Photorealistic aerial wide shot, 16:9. Jerusalem seen from high above, dawn terminator crossing from the east. The Temple Mount, city walls, the Kidron Valley below. One city. One morning. Unaware of what just occurred on the hillside above it. ARRI Alexa 35. Kodak 2383, atmospheric haze at the limb. Vast, quiet. No text, no watermarks.",
+      "motion_prompt": "Very slow pull back from the city below. Dawn terminator advancing. The planet breathes. Nothing visible has changed. Everything has."
+    },
+    {
+      "id": "SHOT_28",
+      "existing": false,
+      "vo": "VO-04",
+      "duration_s": 5,
+      "still_prompt": "Photorealistic wide shot, 16:9. Ancient Jerusalem narrow stone street at dawn, first century. A man walks alone, robed, unhurried. Warm gold and cool luminous white light mixing in the atmosphere around him without his knowledge. Caravaggio warm key from screen right. Anamorphic 50mm. Kodak 2383, fine grain. The ordinary person in a changed universe. No text, no watermarks.",
+      "motion_prompt": "Slow tracking shot following the figure at distance down the stone street. Morning dust and haze. Light shifting around him. Cinematic, quiet."
+    },
+    {
+      "id": "SHOT_29",
+      "existing": false,
+      "vo": "VO-05",
+      "duration_s": 5,
+      "still_prompt": "Painterly oil aesthetic, 16:9. A painted cosmic architecture emerging from light, Salvington, headquarters of the local universe. Vast crystalline spires and concentric rings resolving out of radiance. Painterly oil texture, brush marks visible, no digital sheen. John Howe meets Roger Dean palette, gold and deep indigo. Vast, sacred. No text, no watermarks.",
+      "motion_prompt": "Slow approach toward the central platform. Architecture grows and resolves out of light. Light pulses gently from the center. Painterly brush textures stay consistent."
+    },
+    {
+      "id": "SHOT_30",
+      "existing": false,
+      "vo": "VO-08",
+      "duration_s": 6,
+      "still_prompt": "Painterly oil aesthetic, 16:9. A vast ceremonial hall at Salvington. Assembled hosts of the universe, hundreds of luminous figures across infinite tiers, all turning simultaneously toward the throne. John Howe meets Hubble Deep Field palette, gold and deep indigo, brush marks visible, layered translucency. Reverent, vast, communal. No text, no watermarks.",
+      "motion_prompt": "Slow wide pull back revealing full scale of assembled hosts. Subtle recognition ripples through them. Painted light pulses gently across the hall. Sacred and vast."
+    },
+    {
+      "id": "SHOT_31",
+      "existing": false,
+      "vo": "VO-08",
+      "duration_s": 5,
+      "still_prompt": "Photorealistic wide shot, 16:9. Ancient Jerusalem rooftop at dawn. A small group gathered, men and women, ordinary people, some kneeling, some standing with hands open. The air warm with something invisible present. The Jubilee reaching ground level. Warm gold light from east. Kodak 2383, anamorphic 35mm, fine grain. No text, no watermarks.",
+      "motion_prompt": "Locked static wide. Barely perceptible handheld breathing. Morning light warming slowly on the group. Atmospheric haze drifting. Interior and quiet, not theatrical."
+    },
+    {
+      "id": "SHOT_32",
+      "existing": false,
+      "vo": "VO-09",
+      "duration_s": 5,
+      "still_prompt": "Photorealistic wide shot, 16:9. Ancient Galilean lakeside at dawn. Fishermen pulling nets in their boat, unaware. Lake surface calm, reflecting early pink sky. Ordinary labor on an extraordinary day. Kodak 2383, anamorphic 40mm, fine grain, soft morning light. No text, no watermarks.",
+      "motion_prompt": "Slow gentle drift forward over calm lake surface. Boat moves slightly in water. Birds at distance. Peaceful, ordinary, and now forever different."
+    },
+    {
+      "id": "SHOT_33",
+      "existing": false,
+      "vo": "VO-10",
+      "duration_s": 5,
+      "still_prompt": "Photorealistic macro close-up, 16:9. Ancient weathered hands in prayer posture, open palms facing upward. Warm torch light from screen right, deep shadow left. Rough aged skin. Stone floor below. Kodak 2383, shallow depth of field, fine grain, intimate. No text, no watermarks.",
+      "motion_prompt": "Subtle push in toward open hands. Warm light shifting gently on skin. Dust motes drifting in beam of light. Intimate and still."
+    },
+    {
+      "id": "SHOT_34",
+      "existing": false,
+      "vo": "VO-10",
+      "duration_s": 5,
+      "still_prompt": "Painterly oil aesthetic, 16:9. Earth seen from deep space, now connected. Luminous threads of gold and white light weave outward from the planet into the universe circuits, connecting it permanently to the cosmic family. No longer quarantined. John Howe meets Hubble palette, gold and deep indigo. Brush marks visible, layered translucency. No text, no watermarks.",
+      "motion_prompt": "Slow pull back from Earth as luminous threads extend further outward. The planet glows warmer. Painted brush textures hold. The universe receives its own."
+    },
+    {
+      "id": "SHOT_35",
+      "existing": false,
+      "vo": "VO-11",
+      "duration_s": 5,
+      "still_prompt": "Photorealistic medium shot, 16:9. Ancient first-century room interior, warm lamp light. A man sits alone reading a scroll by candlelight. He does not know he is no longer alone. Warm Caravaggio key from single oil lamp screen right, deep shadow. Stone walls. Kodak 2383, anamorphic 50mm, shallow depth of field, fine grain. No text, no watermarks.",
+      "motion_prompt": "Very subtle handheld breathing. Lamp flame flickering gently. Shadows shifting slightly on stone wall. The room is intimate, warm, inhabited by more than one."
+    },
+    {
+      "id": "SHOT_36",
+      "existing": false,
+      "vo": "VO-11",
+      "duration_s": 6,
+      "still_prompt": "Photorealistic base with painterly light overlay, 16:9. Stone room interior. A seated figure reads by lamp light. Around him, barely visible, a subtle painted luminous presence, warm gold and cool white, fills the room. Simply present. The Spirit and the Son, here, in an ordinary room. Photorealistic base, painterly light overlay. Kodak 2383 base. No text, no watermarks.",
+      "motion_prompt": "Locked static. Lamp flame flickers. The painted luminous overlay pulses very gently, barely perceptible. Sacred, quiet, domestic. The room is not alone."
+    }
+  ]
+}

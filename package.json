@@ -1,0 +1,22 @@
+{
+  "name": "ubn-jubilee-v2",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Jubilee v2 production pipeline: Drive integration, stills, i2v, upscale, timeline, Canva assembly plan.",
+  "scripts": {
+    "stills": "node scripts/01_generate_stills.mjs",
+    "animate": "node scripts/02_animate_stills.mjs",
+    "upscale": "node upscale_to_4k.mjs",
+    "timeline": "node build_timeline.mjs",
+    "canva-plan": "node scripts/03_export_canva_plan.mjs",
+    "manual-prompts": "node scripts/export_manual_prompts.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "googleapis": "^144.0.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
