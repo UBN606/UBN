@@ -16,7 +16,9 @@ const stillsDir = path.join(workDir, "stills");
 fs.mkdirSync(stillsDir, { recursive: true });
 
 if (!hasHiggsfieldKey()) {
-  console.log("HIGGSFIELD_API_KEY not set. Falling back to manual prompt export.");
+  console.log(
+    "HIGGSFIELD_API_KEY or HIGGSFIELD_SECRET not set. Falling back to manual prompt export."
+  );
   const out = path.join(workDir, "manual_stills.md");
   const md = [
     "# Manual still generation (Higgsfield UI, nano-banana-pro, 16:9)",

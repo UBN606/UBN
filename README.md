@@ -35,8 +35,10 @@ Fill in `.env`:
 
 - `GOOGLE_APPLICATION_CREDENTIALS`: path to a Drive-scoped service account JSON,
   shared into the project Drive folders as Editor.
-- `HIGGSFIELD_API_KEY`: optional. Without it, Step 1 writes
-  `outputs/manual_stills.md` for manual generation in the Higgsfield UI.
+- `HIGGSFIELD_API_KEY` plus `HIGGSFIELD_SECRET`: optional credential pair.
+  Both must be set or Step 1 writes `outputs/manual_stills.md` for manual
+  generation in the Higgsfield UI. Optional `HIGGSFIELD_MODEL_PATH` overrides
+  the SDK model path; default is `nano-banana-pro/text-to-image`.
 - `LONGCAT_DIR` and `LONGCAT_CHECKPOINT_DIR`: path to a local clone of
   https://github.com/meituan-longcat/LongCat-Video and its weights. Without
   them, Step 2 writes `outputs/manual_motion.md` instead.
